@@ -16,7 +16,7 @@ The source of the dataset is: [Kaggle E-commerce Sales Dataset](https://github.c
 ## Data cleaning process using Excel.
 1. I started by performing data cleaning using excel.
    The cleaning process entailled removing duplicate data. It appeared that there was no duplicated data or figures in the dataset.
-2. The dataset had columns, Region, Age which was identified as blank cells which had to be recftified. The rectification entailed use of filter function to check the blank cells and replace them using the replace function where for region, I had to replace the cells with unknwon and the column Age to be replaced with 0.
+2. The dataset had columns, Region, Age which was identified as blank cells which had to be recftified. The rectification entailed the use of filter function to check the blank cells and replace them using the replace function where for region, I had to replace the cells with unknwon and the column Age to be replaced with 0.
 
 3. In the process of data cleaning also, the column Unit price had some cells with decimal digits whereas most of the figures was integers. To maintain consistency, I rounded off the figurs to integers using the `Round` function.
 
