@@ -20,4 +20,4 @@ The source of the dataset is: [Kaggle E-commerce Sales Dataset](https://github.c
 
 3. In the process of data cleaning also, the column Unit price had some cells with decimal digits whereas most of the figures was integers. To maintain consistency, I rounded off the figurs to integers using the `Round` function.
 
-   ## 
+## 
